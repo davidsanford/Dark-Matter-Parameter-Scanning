@@ -1,0 +1,6 @@
+spectrum_executable      /common/dsanford/SUSYSpectra/WeakDM/sddiag_luxproj_chxxPos
+micromegas_executable    /common/dsanford/SUSYSpectra/micromegas_2.4.5/DoubletDM_FeynmanGauge/lha_addendum
+variables                lhacodes
+blocklist                input
+blocklist                spectrum
+blocklist                final

@@ -1,0 +1,6 @@
+spectrum_executable      /common/dsanford/SUSYSpectra/NMSSM_Convert/softpoint.x
+micromegas_executable    /common/dsanford/SUSYSpectra/micromegas_2.4.5/MSSM/slha_addendum
+micromegas_loop_exec     /common/dsanford/SUSYSpectra/micromegas_2.4.5/MSSM/omega_only
+blocklist                input
+blocklist                spectrum
+blocklist                final

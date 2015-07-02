@@ -1,0 +1,7 @@
+spectrum_executable      /common/dsanford/SUSYSpectra/WeakDM/sddiag_angle
+micromegas_executable    /common/dsanford/SUSYSpectra/micromegas_2.4.5/DoubletDM_FeynmanGauge/lha_addendum_decays
+micromegas_loop_exec     /common/dsanford/SUSYSpectra/micromegas_2.4.5/DoubletDM_FeynmanGauge/omega
+variables                lhacodes
+blocklist                input
+blocklist                spectrum
+blocklist                final

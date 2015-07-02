@@ -1,0 +1,69 @@
+RMx1     EXTPAR     1           0    # M1
+RMx2     EXTPAR     2           0    # M2
+MUH      EXTPAR     3           0    # superpotential higgs mass term
+mueff    EXTPAR     4           0    # effective mu term
+tanB     EXTPAR     5           0    # tangent beta
+NMl      EXTPAR     6           0    # lambda
+NMk      EXTPAR     7           0    # kappa
+NMmu     EXTPAR     8           0    # mu'
+NMAl     EXTPAR     9           0    # A_lambda
+NMAk     EXTPAR    10           0    # A_kappa
+bb       EXTPAR    11           0    # m_3^2
+MSP2     EXTPAR    12           0    # m'_S^2
+MS2      DERIVED    1           0    # m_S^2
+mHu2     DERIVED    2           0    # mHu2
+mHd2     DERIVED    3           0    # mHd2
+MT       MASS       6           0    # top
+Mdm1     MASS       1000022     0    # DM1
+Mdm2     MASS       1000023     0    # DM2
+Mdm3     MASS       1000025     0    # DM3
+Mch1     MASS       1000024     0    # Ch1
+Mch2     MASS       1000024     0    # Ch2
+US11     NMHMIX     1   1       0    # US_{1, 1}
+US12     NMHMIX     1   2       0    # US_{1, 2}
+US13     NMHMIX     1   3       0    # US_{1, 3}
+US21     NMHMIX     2   1       0    # US_{2, 1}
+US22     NMHMIX     2   2       0    # US_{2, 2}
+US23     NMHMIX     2   3       0    # US_{2, 3}
+US31     NMHMIX     3   1       0    # US_{3, 1}
+US32     NMHMIX     3   2       0    # US_{3, 2}
+US33     NMHMIX     3   3       0    # US_{3, 3}
+UP11     NMAMIX     1   1       0    # UP_{1, 1}
+UP12     NMAMIX     1   2       0    # UP_{1, 2}
+UP13     NMAMIX     1   3       0    # UP_{1, 3}
+UP21     NMAMIX     2   1       0    # UP_{2, 1}
+UP22     NMAMIX     2   2       0    # UP_{2, 2}
+UP23     NMAMIX     2   3       0    # UP_{2, 3}
+RNN11    NMNMIX     1   1       0    # NN_{1, 1}
+RNN12    NMNMIX     1   2       0    # NN_{1, 2}
+RNN13    NMNMIX     1   3       0    # NN_{1, 3}
+RNN14    NMNMIX     1   4       0    # NN_{1, 4}
+RNN15    NMNMIX     1   5       0    # NN_{1, 5}
+RNN21    NMNMIX     2   1       0    # NN_{2, 1}
+RNN22    NMNMIX     2   2       0    # NN_{2, 2}
+RNN23    NMNMIX     2   3       0    # NN_{2, 3}
+RNN24    NMNMIX     2   4       0    # NN_{2, 4}
+RNN25    NMNMIX     2   5       0    # NN_{2, 5}
+RNN31    NMNMIX     3   1       0    # NN_{3, 1}
+RNN32    NMNMIX     3   2       0    # NN_{3, 2}
+RNN33    NMNMIX     3   3       0    # NN_{3, 3}
+RNN34    NMNMIX     3   4       0    # NN_{3, 4}
+RNN35    NMNMIX     3   5       0    # NN_{3, 5}
+RNN31    NMNMIX     4   1       0    # NN_{4, 1}
+RNN32    NMNMIX     4   2       0    # NN_{4, 2}
+RNN33    NMNMIX     4   3       0    # NN_{4, 3}
+RNN34    NMNMIX     4   4       0    # NN_{4, 4}
+RNN35    NMNMIX     4   5       0    # NN_{4, 5}
+RNN31    NMNMIX     5   1       0    # NN_{5, 1}
+RNN32    NMNMIX     5   2       0    # NN_{5, 2}
+RNN33    NMNMIX     5   3       0    # NN_{5, 3}
+RNN34    NMNMIX     5   4       0    # NN_{5, 4}
+RNN35    NMNMIX     5   5       0    # NN_{5, 5}
+RUU11    UMIX       1   1       0    # UU_{1, 1}
+RUU12    UMIX       1   2       0    # UU_{1, 2}
+RUU21    UMIX       2   1       0    # UU_{2, 1}
+RUU22    UMIX       2   2       0    # UU_{2, 2}
+RVV11    VMIX       1   1       0    # VV_{1, 1}
+RVV12    VMIX       1   2       0    # VV_{1, 2}
+RVV21    VMIX       2   1       0    # VV_{2, 1}
+RVV22    VMIX       2   2       0    # VV_{2, 2}

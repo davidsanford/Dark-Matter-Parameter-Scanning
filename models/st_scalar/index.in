@@ -1,0 +1,7 @@
+spectrum_executable      /common/dsanford/SUSYSpectra/ST_Scalar/stdiag
+micromegas_executable    /common/dsanford/SUSYSpectra/micromegas_2.4.5/ST_Scalar/lha_addendum_decays
+micromegas_loop_exec     /common/dsanford/SUSYSpectra/micromegas_2.4.5/ST_Scalar/omega
+variables                lhacodes
+blocklist                input
+blocklist                spectrum
+blocklist                final

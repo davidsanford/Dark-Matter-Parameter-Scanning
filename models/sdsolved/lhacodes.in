@@ -1,0 +1,22 @@
+MT       MASS       6           0    # top
+MH       MASS       25          0    # SM higgs
+muS      DERIVED    1           0    # \mu_{S}
+mDM      EXTPAR     1           0    # m_{DM}
+muD      EXTPAR     2           0    # \mu_{D}
+tantheta EXTPAR     3           0    # \tan\theta_{SD}
+lambda_h EXTPAR     4           0    # \lambda_{h}
+ySD      DERIVED    2           0    # ySD
+ySDhat   DERIVED    3           0    # ySDhat
+Mdm1     MASS       1000022     0    # DM1
+Mdm2     MASS       1000023     0    # DM2
+Mdm3     MASS       1000025     0    # DM3
+Mch      MASS       1000024     0    # Ch
+RNN11    DMMIX      1   1       0    # NN_{1, 1}
+RNN12    DMMIX      1   2       0    # NN_{1, 2}
+RNN13    DMMIX      1   3       0    # NN_{1, 3}
+RNN21    DMMIX      2   1       0    # NN_{2, 1}
+RNN22    DMMIX      2   2       0    # NN_{2, 2}
+RNN23    DMMIX      2   3       0    # NN_{2, 3}
+RNN31    DMMIX      3   1       0    # NN_{3, 1}
+RNN32    DMMIX      3   2       0    # NN_{3, 2}
+RNN33    DMMIX      3   3       0    # NN_{3, 3}
