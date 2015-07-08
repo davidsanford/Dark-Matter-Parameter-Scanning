@@ -12,4 +12,4 @@ This package uses a custom micrOMEGAs input file along with a spectrum generator
 Several root-solving methodologies are employed for this purpose, given the complexity of dependence of output quantities on input parameters.  While some physical quantities have easily predictable dependence on input parameters, others have unpredictable dependence and the possibility of multiple roots that must be controlled for by boundaries on the root solving routine in the scan methodology.  Numerical precision from SOFTSUSY in particular can also become problematic, introducing an unpredicatable offset to physical quantities which is typically appropriate but difficult to control.
 
 ## Requirements
-This package requires the presence of a spectrum generator or micrOMEGAs with an appropriate model loaded, and both are generally expected.
+This package contains research code, and is not designed for general use.  It requires the presence of a spectrum generator or micrOMEGAs with an appropriate model loaded, and both are generally expected.
